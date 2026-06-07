@@ -1,4 +1,4 @@
-class CheckNumberSign {
+class CheckNumberSign1 {
     public static void main(String[] args) {
            CheckNumberSign(32);
         CheckNumberSign(0);
