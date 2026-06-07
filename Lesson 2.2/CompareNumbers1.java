@@ -1,4 +1,4 @@
-class CompareNumbers {
+class CompareNumbers1 {
     public static void main(String[] args) {
         CompareNumbers();
     }

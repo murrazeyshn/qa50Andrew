@@ -1,4 +1,4 @@
-class CheckSumRange {
+class CheckSumRange1 {
     public static void main(String[] args) {
         // Примеры для проверки работы метода
         System.out.println(CheckSumRange(3, 6));

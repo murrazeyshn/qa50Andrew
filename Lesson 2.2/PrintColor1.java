@@ -1,4 +1,4 @@
-class PrintColor {
+class PrintColor1 {
     public static void main(String[] args) {
         PrintColor();
     }
